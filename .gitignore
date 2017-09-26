@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+Would skip repository RestApiTest/
+node_modules
